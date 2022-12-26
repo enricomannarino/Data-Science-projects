@@ -1,8 +1,8 @@
-# Foundations of Computer Science
+## Foundations of Computer Science
 
-Code for the Foundations of Computer Science project - associated with the Data Science graduate program (academic year 2022/2023)
+Project for the 'Foundations of Computer Science' exam - associated with the Data Science graduate program (academic year 2022/2023)
 
-## Contributing Members
+### Contributing Members
 
 - Enrico Mannarino
 - Simone Massardi
