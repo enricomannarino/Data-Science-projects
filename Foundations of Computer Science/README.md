@@ -7,3 +7,6 @@ Project for the *Foundations of Computer Science* exam - associated with the Dat
 - Enrico Mannarino
 - Simone Massardi
 - Giorgia Prina
+
+
+Final grade: 30/30
