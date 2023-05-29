@@ -7,3 +7,6 @@ Project for the *Machine Learning* exam - associated with the Data Science gradu
 - Enrico Mannarino
 - Simone Massardi
 - Giorgia Prina
+
+
+Final grade: 30/30
