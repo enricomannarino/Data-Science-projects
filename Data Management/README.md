@@ -7,3 +7,5 @@ Project for the *Data Management* exam - associated with the Data Science gradua
 - Enrico Mannarino
 - Matteo Altieri
 - Christian Persico
+
+Final grade: 30/30
