@@ -8,3 +8,5 @@ You can find the work done on Tableau here: https://public.tableau.com/app/profi
 - Enrico Mannarino
 - Simone Massardi
 - Giorgia Prina
+
+Final grade: 30/30
