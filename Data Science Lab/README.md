@@ -1,6 +1,6 @@
 ## Data Science Lab
 
-Project for the *Data Visualization* exam - associated with the Data Science graduate program (academic year 2023/2024).
+Project for the *Data Science Lab* exam - associated with the Data Science graduate program (academic year 2023/2024).
 
 ### Contributing Members
 
