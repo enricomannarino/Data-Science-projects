@@ -1,0 +1,2 @@
+graphviz==0.20.1
+statsmodels==0.14.0
