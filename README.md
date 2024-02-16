@@ -64,9 +64,10 @@ sellers and potential buyers, facilitating the comprehension of the overall atti
 product. By doing so, we are able to transform unstructured reviews into structured, actionable data.
 
 
-### []()
+### [A Machine Learning Exploration of Financial Literacy Determinants in Italy](https://github.com/enricomannarino/Data-Science-projects/tree/main/Data%20Science%20Lab)
 
-
+Financial literacy is remarkably important in today’s complex world. Italy is at a disadvantage because its citizens are not as financially literate as those of other major economies. This puts both individuals and the whole country at risk when it comes to financial matters.
+Using data provided by the answers to a questionnaire administered by the Bank of Italy in 2017, our aim was, in addition to a detailed analysis, the use of machine learning models that allow, by classifying individuals to identify the main factors influencing the level of financial knowledge of Italian adults. This work is intended as a tool to support national and international institutions, as well as policy makers and financial analysts who, on the basis of the results obtained, have the possibility to intervene in a targeted manner to contribute to the development of financial education in the country.
 
 
 
